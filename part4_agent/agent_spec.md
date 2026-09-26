@@ -98,6 +98,4 @@ GIVEN a CSV with missing category, negative revenue, and missing revenue fields 
 
 ---
 
-## Ordered Subtasks (Planner Detail)
 
-See part4_agent/mock_agent_runner.py for implementation of these 8 subtasks.
